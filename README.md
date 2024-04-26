@@ -34,7 +34,7 @@ My mods for hypixel skyblock, easy as that.
 
 **Logical zoom** - Use C to zoom.
 
-**Bobby** - Store servers' chunks locally to have a greater render distance than the one fixed by the server.
+**Bobby** - Store servers' chunks locally to have a greater render distance than the one fixed by the server. Activate "Dynamic World Management" or you will have unacurate false chuck!
 
 **CIT Resewn** - Some texture pack, like the Hypixel+ use CIT to change item's texture depending on NBT data instead of minecraft ID. Long story short: needed to make hypixel skyblock texture pack work.
 
